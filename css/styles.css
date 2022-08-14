@@ -1,0 +1,23 @@
+body {
+  background-color: #EAE3D2;
+  font-family: roboto;
+  color: #1C3879;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 10px;
+  width: 5%;
+  color: #F9F5EB;
+}
+
+img {
+  height: 200px;
+  border-radius: 100%;
+}
+a {
+  color: #607EAA;
+}
+a:hover {
+  color: #1C3879;
+}
